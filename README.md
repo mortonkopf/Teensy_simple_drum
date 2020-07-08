@@ -6,6 +6,7 @@ the audio is created onboard, and output through the DAC on pin14 of Teensy 3.2
 image
 https://user-images.githubusercontent.com/10212990/86898856-21895d80-c101-11ea-9f89-b7abb73fc3da.jpg
 
+https://user-images.githubusercontent.com/10212990/86898849-1cc4a980-c101-11ea-8199-800e5cb21c3b.jpg
 
 
 /*
