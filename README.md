@@ -3,6 +3,9 @@ This is code for a simple Eurorack drum module using the Teensy. All drum sound 
 
 the audio is created onboard, and output through the DAC on pin14 of Teensy 3.2
 
+image
+https://user-images.githubusercontent.com/10212990/86898856-21895d80-c101-11ea-9f89-b7abb73fc3da.jpg
+
 
 
 /*
