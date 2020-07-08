@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/10212990/86898849-1cc4a980-c101-11ea-8
 
 /*
  * this is the simplest drum synthesis module I could make for hte eurorack. 
- * There a virtually external parts to the Teensy 3.* other than some 
+ * There are virtually no external parts to the Teensy 3.* other than some 
  * protection diodes and a Resistor-Capacitor filter for the audio
  * output from the DAC pin. The sketch uses the onboard DAC for output.
  * 
